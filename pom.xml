@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.thevpc.nb.plugins</groupId>
     <artifactId>nbv</artifactId>
-    <version>1.0.0.0</version>
+    <version>1.1.0.0</version>
     <name>Netbeans Plugin Ninja Bold Vault Plugin</name>
     <packaging>nbm</packaging>
     <build>
